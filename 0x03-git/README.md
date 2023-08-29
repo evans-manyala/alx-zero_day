@@ -1,1 +1,2 @@
-Readme in the new directory
+Readme file added and updated its contents
+
